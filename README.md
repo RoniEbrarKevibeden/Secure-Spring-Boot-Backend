@@ -1,4 +1,4 @@
-# Lab 10 – Implementation of HTTP (Spring Boot)
+# Secure Spring Boot Backend
 
 ## Objective
 Learn secure request processing, input parsing, basic validation, and correct HTTP response handling.  
